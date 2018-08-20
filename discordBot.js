@@ -10,5 +10,5 @@ client.on('message', msg => {
     msg.reply('Pong!');
   }
 });
-
+// fake login key, add your own
 client.login('NDgwNTE1MTQzNzkzNjM5NDM0.Dlulug.foiCbMuGI9w9sBvtkE4Psxnonzs');
